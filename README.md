@@ -9,3 +9,9 @@ Coding should be fun. The lectures and worksheets should be interesting, fun, am
 Thanks,
 
 John
+
+--------------------
+
+How to get the resources -->
+
+Click on the GREEN code button, show the drop-down, then select "download as .zip" and you'll have EVERYTHING!
