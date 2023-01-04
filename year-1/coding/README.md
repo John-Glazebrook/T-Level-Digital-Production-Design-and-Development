@@ -2,14 +2,14 @@ hello
 
 Contents:
 
-Python lectures
-Python worksheets
-Assessments
+- Python lectures
+- Python worksheets
+- Assessments
 
 After Python there are lectures on:
 
-Minecraft Education - this teaches JS (typescript) and flowcharts
-C# - this solidifies JS (similar language) and teaches GUI
+- Minecraft Education - this teaches JS (typescript) and flowcharts
+- C# - this solidifies JS (similar language) and teaches GUI (UI/UX)
 
 Lecturers - these are tools you will need:
 
