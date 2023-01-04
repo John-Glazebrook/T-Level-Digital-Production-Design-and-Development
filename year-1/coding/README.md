@@ -1,5 +1,16 @@
 hello
 
+Contents:
+
+Python lectures
+Python worksheets
+Assessments
+
+After Python there are lectures on:
+
+Minecraft Education - this teaches JS (typescript) and flowcharts
+C# - this solidifies JS (similar language) and teaches GUI
+
 Lecturers - these are tools you will need:
 
 You and all students will need an account on http://repl.it (new URL http://replit.com)
