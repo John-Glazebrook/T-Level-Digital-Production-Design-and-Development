@@ -19,3 +19,7 @@ Get everything as a .zip file:
 https://github.com/John-Glazebrook/T-Level-Digital-Production-Design-and-Development/archive/refs/heads/main.zip
 
 Or, click on the GREEN code button, show the drop-down, then select "download as .zip" and you'll have EVERYTHING!
+
+--------------------
+
+ESP scheme of work contribution by Naomi Johns-Dyer, thanks Naomi!
