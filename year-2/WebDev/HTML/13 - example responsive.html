@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 10px 10px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "logo    nav     nav     nav  nav"
+    "content content content ads  ads"
+    "foot    foot    foot    foot foot";
+}
+
+@media (max-width: 700px) {
+
+    .container {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "logo    nav "
+            "content content"
+            "ads     ads"
+            "foot    foot";
+    }
+}
+
+.container * {
+    box-shadow: 1px 1px 4px 0 rgb(0 0 0 / 10%);
+    border: 1px solid #d3d3d3;
+    border-radius: 3px;
+    padding: 1em;
+}
+
+.logo {
+    grid-area: logo;
+}
+
+.container nav {
+    grid-area: nav;
+    padding: 3em;
+}
+
+article { grid-area: content; }
+
+.ads { grid-area: ads; }
+
+footer { grid-area: foot; }
+
+
+    </style>
+</head>
+<body>
+    
+
+    <div class="container">
+        <div class="logo">
+            LOGO
+        </div>
+        <nav>
+            Navigation here
+        </nav>
+        <article>John is brilliant</article>
+        <div class="ads">Don't forget to buy stuff!</div>
+        <footer>copyright 2021</footer>
+    </div>
+
+</body>
+</html>

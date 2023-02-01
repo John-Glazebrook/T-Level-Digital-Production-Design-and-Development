@@ -1,0 +1,6 @@
+go into teams
+add assignment
+select quiz
+
+students complete
+download the excel results
