@@ -7,7 +7,7 @@ XAMPP ( https://www.apachefriends.org/ ) to spin up a webserver and database
 You may wish to send emails from PHP, gmail and outlook will both allow you to do this. 
 The student will use PHP to connect to the SMTP server using their email address and password. Create burner accounts for this.
 
-- XDebug (please install this - I have no idea how people code without a debugger (25 years coding in industry experience))
+- XDebug (please install this - I have no idea how people code without a debugger (many years coding in industry experience))
 - XDebug extension for chrome
 - Xdebug plugin for VSCode
 
