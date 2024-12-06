@@ -1,0 +1,14 @@
+It's Christmas Eve, and Santa and his elves are busy preparing for their long journey around the world. As they load up the sleigh with presents, they realize that they need a way to keep track of all the children they will be visiting. The elves have been writing down the names of the children and the presents they want in a big book, but it's getting hard to keep up with all the requests.
+
+Santa decides to use Python to help his elves organize the information more efficiently. He asks one of the elves who knows Python to create a program that will store all the children's names, addresses, and presents in a database. The program will also allow the elves to search for a child's name or address, and to update the information if it changes.
+
+The elves are excited to try out the new program, and they quickly start entering all the information into the database. As they work, they realize how much easier it is to keep track of everything using the Python program. They can quickly find a child's name or address, and they can update the information as needed.
+
+On Christmas Eve, the elves use the Python program to generate a list of all the children they need to visit. They load the presents into the sleigh, and Santa sets off on his journey. As he visits each child, he uses the Python program to check their name and address, and to make sure he has the right presents for them. The children are thrilled to see Santa and receive their presents, and they are grateful to the elves for using Python to make Christmas fun and organized.
+
+In the end, Santa and his elves are happy to have used Python to help them manage the many challenges of Christmas. They are able to deliver presents to all the children on time, and they are able to make Christmas fun and special for everyone.
+
+Investigate the operator library, specifically the itemgetter functionality.
+Using the "sorted" function, sort the children by country.
+
+This will allow Santa and his elves to easily see which children are in each country, and to plan their route accordingly.
